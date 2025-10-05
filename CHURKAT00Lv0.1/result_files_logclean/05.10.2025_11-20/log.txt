@@ -1,0 +1,2 @@
+Очистка логов старше 1 дней в results
+Ошибка очистки: lstat results: no such file or directory

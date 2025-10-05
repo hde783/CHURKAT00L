@@ -1,0 +1,13 @@
+[1/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[2/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[3/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[4/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[5/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[6/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[7/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[8/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[9/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[10/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[11/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[12/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[13/100] Ошибка отправки: <nil>, Статус: 400 Bad Request, Ответ: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}

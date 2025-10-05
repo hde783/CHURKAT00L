@@ -1,0 +1,11 @@
+[1/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[2/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[3/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[4/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[5/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[6/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[7/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[8/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[9/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[10/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
+[11/100] Ошибка отправки на https://discord.com/api/webhooks/1421479737313984522/OEl01u2iRNjgNGBsOep3QdO2CRuJo5HKB8KUINVwD2PkA98Nxn7XzEKdss5YsfdJLY1O: <nil>
